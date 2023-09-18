@@ -16,5 +16,7 @@ public class Client {
     private String firstname;
     private String lastname;
     private String email;
+    private int anneDeNaissance;
+    private int age;
 
 }
